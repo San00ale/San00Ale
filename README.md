@@ -1,114 +1,132 @@
 <div align="center">
 
-```
-███████╗ █████╗ ███╗   ██╗████████╗██╗ █████╗  ██████╗  ██████╗
-██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██║██╔══██╗██╔════╝ ██╔═══██╗
-███████╗███████║██╔██╗ ██║   ██║   ██║███████║██║  ███╗██║   ██║
-╚════██║██╔══██║██║╚██╗██║   ██║   ██║██╔══██║██║   ██║██║   ██║
-███████║██║  ██║██║ ╚████║   ██║   ██║██║  ██║╚██████╔╝╚██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
-```
-
 # Santiago Alejandro Gamboa Araujo
 
-**`Software Engineer in Training · UTA · FISEI`**
+### Software Engineering Student | Full-Stack & Backend Development
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Passionate+Web+Developer+%F0%9F%8C%90;Always+learning%2C+always+building+%F0%9F%9A%80;%22First+make+it+work%2C+then+make+it+right%22)](https://git.io/typing-svg)
+Ambato, Ecuador
+
+[Projects](#featured-projects) · [Tech Stack](#tech-stack) · [GitHub](#github-activity)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## About Me
 
-```java
-public class Santiago {
+Software Engineering student at **Universidad Técnica de Ambato (UTA)** with an interest in **full-stack and backend development**.
 
-    String nombre      = "Santiago Alejandro Gamboa Araujo";
-    int    edad        = 20;
-    String universidad = "Universidad Técnica de Ambato (UTA - FISEI)";
-    String carrera     = "Ingeniería en Software";
-    String semestre    = "4to de 9";
-    String ubicacion   = "Ambato, Ecuador 🇪🇨";
+I build software projects focused on business logic, database design, authentication and authorization, API development, and integration with external services.
 
-    String objetivo() {
-        return "Convertirme en un desarrollador profesional y trabajar en proyectos reales 🚀";
-    }
+My current experience includes developing web applications with **Next.js, React and TypeScript**, as well as desktop systems with **Java, Swing and MySQL**.
 
-    String[] enEsteMomento() {
-        return new String[]{
-            "📚 Aprendiendo y mejorando cada día",
-            "🌐 Construyendo proyectos web",
-            "🔍 Explorando el mundo del desarrollo de software",
-            "🤝 Buscando colaborar en proyectos reales"
-        };
-    }
-}
+---
+
+## Featured Projects
+
+### Cooperativa Ambato Express
+
+**Full-stack transportation management and ticketing system**
+
+Web application designed to manage the operational workflow of an interprovincial transportation company, including users, buses, routes, schedules, ticket sales and payment verification.
+
+**Key features**
+
+- Role-based authentication for administrators, office staff, drivers and customers
+- Bus, route and schedule management
+- Ticket purchasing and customer purchase history
+- Payment receipt upload and verification workflow
+- QR generation and ticket validation
+- Protected routes based on user roles
+- Email notifications
+- External file storage integration
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `SQLite` `NextAuth` `Cloudinary` `Resend` `Docker`
+
+[View Repository](https://github.com/San00ale/coperativa-ambato-express)
+
+---
+
+### SistemaEmpleados
+
+**Employee and attendance management system**
+
+Desktop application designed to manage employees, attendance, working schedules and organizational reports using a layered Java architecture.
+
+**Key features**
+
+- User authentication and role-based access
+- Employee management
+- Attendance registration and validation
+- Ecuadorian ID validation
+- Working schedule controls
+- Salary and late-arrival deduction calculations
+- Employee and date-based reports
+- PDF report generation
+
+**Tech Stack**
+
+`Java` `Swing` `MySQL` `JDBC` `JasperReports` `Apache Ant` `Docker`
+
+[View Repository](https://github.com/San00ale/SistemaEmpleados)
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Web Development
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Databases & ORM
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Technical Experience
+
+```text
+Full-Stack Development    Next.js · React · TypeScript
+Backend & APIs            Next.js API Routes · Node.js · Java
+Database                  MySQL · SQLite · Prisma · JDBC
+Authentication            NextAuth · Role-Based Access Control
+Integrations              Cloudinary · Resend · QR
+Desktop Development       Java · Swing
+Reporting                 JasperReports
+Development Tools         Git · GitHub · Docker
 ```
 
 ---
 
-## 🛠️ Stack Tecnológico
+## GitHub Activity
 
 <div align="center">
 
-### 💻 Lenguajes de Programación
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=San00ale&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-### 🌐 Desarrollo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Herramientas
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Mi Roadmap de Aprendizaje
-
-```
-[✅] Fundamentos de Programación con Java
-[✅] Desarrollo Web con HTML, CSS y JavaScript
-[✅] Bases de datos con MySQL
-[✅] Control de versiones con Git & GitHub
-[🔄] Desarrollo backend con PHP
-[🔄] Proyectos web completos (Frontend + Backend)
-[⏳] Frameworks Frontend (React / Vue)
-[⏳] Frameworks Backend (Laravel / Spring)
-[⏳] APIs RESTful
-[⏳] Despliegue y servidores
-```
-> ✅ Completado · 🔄 En progreso · ⏳ Próximamente
-
----
-
-## 🤝 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San00ale&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 
 </div>
 
@@ -116,14 +134,6 @@ public class Santiago {
 
 <div align="center">
 
-### ⚡ Frase que me define
-
-> *"Primero haz que funcione, luego hazlo bien, después hazlo rápido."*
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=TU_USUARIO&color=00d9ff&style=for-the-badge&label=VISITAS+AL+PERFIL)
-
-**¡Gracias por visitar mi perfil! 🚀**
+**Software Engineering · Full-Stack Development · Backend Development**
 
 </div>
